@@ -11,7 +11,7 @@ This Python script automatically converts dark-background pdf pages to white-bac
  Puts these fixed pages back into the original PDF without changing the other pages.
  Creates a new PDF that is easier to read on the pages you fixed.
 
-<img width="767" height="598" alt="sample1" src="https://github.com/user-attachments/assets/ed516dc1-bd0a-40ea-8270-b6f9817bd1ac" />
+<img width="400" height="300" alt="sample1" src="https://github.com/user-attachments/assets/ed516dc1-bd0a-40ea-8270-b6f9817bd1ac" />
 
 
 # How to Use

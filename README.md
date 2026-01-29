@@ -57,6 +57,8 @@ Enjoy!!
 
 # To-Do
 
-[] Scale pages equally on non processed pages in output pdf
-[] Add support for colors other than black
+```
+[ ] Scale pages equally on non processed pages in output pdf
+[ ] Add support for colors other than black
+```
           

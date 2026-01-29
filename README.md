@@ -11,6 +11,8 @@ This Python script automatically converts dark-background pdf pages to white-bac
  Puts these fixed pages back into the original PDF without changing the other pages.
  Creates a new PDF that is easier to read on the pages you fixed.
 
+<img width="898" height="300" alt="sample0" src="https://github.com/user-attachments/assets/d5c07ab8-743c-480c-abdf-5e849eeaed81" />
+
 <img width="400" height="300" alt="sample1" src="https://github.com/user-attachments/assets/ed516dc1-bd0a-40ea-8270-b6f9817bd1ac" />
 
 
@@ -19,8 +21,8 @@ This Python script automatically converts dark-background pdf pages to white-bac
 ### Requirements: 
 
 * Python 3.13.11
-* Python packages: pypdf and Pillow
-* ghostscript 10.06.0       
+* Python packages: pypdf and pillow
+* Ghostscript 10.06.0       
 
 ### Installation 
 
@@ -59,6 +61,6 @@ Enjoy!!
 
 ```
 [ ] Scale pages equally on non processed pages in output pdf
-[ ] Add support for colors other than black
+[X] Add support for colors other than black
 ```
           
